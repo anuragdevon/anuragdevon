@@ -9,7 +9,7 @@
 This line will never be read....😑
 
 
-![Farmers Market Finder Demo](https://media.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif)
+![Loop](https://media.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif)
 <!--
 **Anuragkar234/anuragkar234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
