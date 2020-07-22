@@ -1,1 +1,1 @@
-[OPEN !](index.html)
+[OPEN !!](https://anuragkar234.github.io/CodeStuffs/)
