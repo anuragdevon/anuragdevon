@@ -1,1 +1,1 @@
-![Farmers Market Finder Demo](<iframe width="1903" height="778" src="https://www.youtube.com/embed/kuQj0mXPPEs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+![Intro](Intro/Intro.gif)
