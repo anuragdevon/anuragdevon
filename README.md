@@ -1,1 +1,1 @@
-![](Intro.gif)
+![INTRO>>](int.gif)
