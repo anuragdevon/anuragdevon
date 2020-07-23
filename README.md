@@ -1,1 +1,1 @@
-[OPEN !!](https://anuragkar234.github.io/CodeStuffs)
+[OPEN !!](https://anuragkar234.github.io/)
