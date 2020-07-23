@@ -1,1 +1,1 @@
-![INTRO>>](../int.gif)
+![VISIT Readme!](int.gif)
