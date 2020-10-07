@@ -10,6 +10,7 @@
  [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/Anuragkar234)](https://Anuragkar234)
  [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  [![Golang](https://img.shields.io/badge/-Golang-black?style=flat&logo=go&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
+ [![C#](https://img.shields.io/badge/-CSharp-00599C?style=flat&logo=csharp&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  [![Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=bash&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  
  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234) 
