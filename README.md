@@ -4,7 +4,7 @@
 
 ### ![Languages Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkar234&layout=compact&theme=radical&show_icons=true&hide_border=true)
 
-### Technologies familiar with: 
+### Technologies used  :construction:: 
 
  [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/Anuragkar234)](https://Anuragkar234)
