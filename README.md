@@ -21,7 +21,8 @@
  [![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=nodejs&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  [![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
- 
+ [![ASP.NET](https://img.shields.io/badge/-ASP.NET-black?style=flat&logo=dotnet&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
+  
  [![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  [![Pytorch](https://img.shields.io/badge/-PyTorch-gray?style=flat&logo=pytorch&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
