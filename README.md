@@ -10,7 +10,6 @@
  [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/Anuragkar234)](https://Anuragkar234)
  [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  [![Golang](https://img.shields.io/badge/-Golang-black?style=flat&logo=go&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
- [![C#](https://img.shields.io/badge/-CSharp-00599C?style=flat&logo=csharp&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  [![Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=bash&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  
  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234) 
@@ -18,11 +17,9 @@
  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  
- [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  [![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=nodejs&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  [![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
- [![ASP.NET](https://img.shields.io/badge/-ASP.NET-black?style=flat&logo=dotnet&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
   
  [![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
