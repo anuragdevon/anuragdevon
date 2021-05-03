@@ -1,8 +1,8 @@
 ### ![Visit Readme!](https://media.giphy.com/media/hp3cHb7eMoWVctmERJ/giphy.gif)
 
-### ![Anurag Github Stats](https://github-readme-stats.vercel.app/api?username=Anuragkar234&theme=radical&show_icons=true&hide_border=true)
+### ![Anurag Github Stats](https://github-readme-stats.vercel.app/api?username=anuragdevon&theme=radical&show_icons=true&hide_border=true)
 
-### ![Languages Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkar234&layout=compact&theme=radical&show_icons=true&hide_border=true)
+### ![Languages Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdevon&layout=compact&theme=radical&show_icons=true&hide_border=true)
 
 ### Technologies used  :construction:: 
 
