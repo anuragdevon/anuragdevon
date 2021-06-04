@@ -12,7 +12,6 @@
  [![Golang](https://img.shields.io/badge/-Golang-black?style=flat&logo=go&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  [![Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=bash&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  
- [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=nodejs&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  [![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
   
  [![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
@@ -21,7 +20,6 @@
  [![OpenCV](https://img.shields.io/badge/-OpenCV-gray?style=flat&logo=cv&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  
  [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
- [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  
  [![Unreal-Engine](https://img.shields.io/badge/-UnrealEngine-black?style=flat&logo=unreal&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
  [![Maya](https://img.shields.io/badge/-Maya-blue?style=flat&logo=maya&link=https://github.com/Anuragkar234)](https://github.com/Anuragkar234)
