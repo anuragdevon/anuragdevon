@@ -9,8 +9,8 @@ I'm Anurag Kar, Student at 📚 IIIT, Kancheepuram, Chennai,  Pursuing Btech. in
 ## What I'm upto
 
 - 👨‍💻 I'm currently working and developing web-apps solving real-world issues using Django/Python.
-- 💻 Also every so often I tweak and improve my linux systems, learning new stuffs for fun.
-- 🌌 Apart from using laptop, I dedicate my time to football, sketching and being a Space-geek I love learning new stuffs related to it.
+- 💻 Also every so often I tweak and improve my linux systems, learning new stuff.
+- 🌌 Apart from using laptop, I dedicate my time to football, sketching and being a Space-geek I love learning new stuff related to it.
 <br>
 
 ## Relevant Work-skills
@@ -59,7 +59,7 @@ I'm Anurag Kar, Student at 📚 IIIT, Kancheepuram, Chennai,  Pursuing Btech. in
 
 **Data 🗂** 
 
-> 🗒 38 Public Repositories 
+> 🗒 23 Public Repositories 
  > 
 > 🔐 15 Private Repositories  
 <br>
