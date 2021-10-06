@@ -50,20 +50,17 @@ I'm Anurag Kar, Student at 📚 IIIT, Kancheepuram, Chennai,  Pursuing Btech. in
 </table>
 </div> -->
 
-<div align="left">
+<div align="center">
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragdevon&theme=tokyonight&show_icons=true&border_radius=0)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdevon&layout=compact&theme=tokyonight&border_radius=0)](https://github.com/anuragdevon/)
- 
-</div>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anuragdevon&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+ </div>
 **Data 🗂** 
 
 > 🗒 31 Public Repositories 
  > 
 > 🔐 15 Private Repositories  
 <br>
-
 ## Social Links 
 
 [![Gmail][gmail-shield]][linkedin-url]
