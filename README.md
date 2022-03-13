@@ -54,7 +54,7 @@ I'm Anurag Kar, Student at 📚 IIIT, Kancheepuram, Chennai,  Pursuing Btech. in
 
 <div align="center">
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragdevon&theme=tokyonight&show_icons=true&border_radius=0)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragdevon&theme=tokyonight&show_icons=true&hide_border=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anuragdevon&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
  </div>
  
