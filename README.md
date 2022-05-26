@@ -60,7 +60,7 @@ I'm Anurag Kar, Student at 📚 IIIT, Kancheepuram, Chennai,  Pursuing Btech. in
  
 **Data 🗂** 
 
-> 🗒 25 Public Repositories 
+> 🗒 30 Public Repositories 
  > 
 > 🔐 X Private Repositories  
 <br>
