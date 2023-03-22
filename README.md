@@ -3,66 +3,70 @@
 ## whoami
 
 <p>Hey there ! 👋</p> 
-I'm Anurag Kar, Student at 📚 IIIT, Kancheepuram, Chennai,  Pursuing Btech. in Smart Manufacturing. I am really passionate about Tech-World, and would love to see myself helping and contributing for the growth and developement of it.
+I'm Anurag, a B.Tech student with experience in Python and Golang. I specialize in backend development, system administration, and cloud computing. I'm passionate about building high-quality products and solving problems.
 <br>
 
 ## What I'm upto
 
-- 👨‍💻 I'm currently working and developing software/Cloud automation programs.
+- 👨‍💻 I'm currently working on developing different software modules for backend components.
 - 💻 Also every so often I tweak and improve my linux systems, learning new stuff.
 - 🌌 Apart from using laptop, I dedicate my time to football, sketching and being a Space-geek I love learning new stuff related to it.
 <br>
 
-## Relevant Work-skills
+<div align="center">
 
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40px"></span>&nbsp;
+## GitHub Stats
+
+<table>
+  <tr>
+    <td>
+<div align="center">
+
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/anuragkar) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragdevon&theme=tokyonight&show_icons=true&hide_border=true)
+ </div>
+<!-- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" width="40px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="40px"></span>&nbsp; -->
+    </td>
+    <td>
+<div align="center">
+ 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragdevon&theme=tokyonight&show_icons=true&hide_border=true) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anuragdevon&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+ </div>
+    </td>
+  </tr>
+</table>
+<br>
+
+<div align="center">
+
+
+## Current Stack
+
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="40px"></span>&nbsp;
-<br>
 
-## GitHub Stats
-
-<!-- <div align="left">
-<table >
- <tr>
-    <td>
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragdevon&theme=tokyonight&show_icons=true&border_radius=0)
-    </td>
-    <td>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdevon&layout=compact&theme=tokyonight&border_radius=0)](https://github.com/anuragdevon/)
-    </td>
- </tr>
-</table>
-</div> -->
-
-<div align="center">
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragdevon&theme=tokyonight&show_icons=true&hide_border=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anuragdevon&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
- </div>
- 
-**Data 🗂** 
-
-> 🗒 30 Public Repositories 
- > 
-> 🔐 X Private Repositories  
 <br>
 
 ## Social Links 
@@ -72,8 +76,12 @@ I'm Anurag Kar, Student at 📚 IIIT, Kancheepuram, Chennai,  Pursuing Btech. in
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![Youtube][youtube-shield]][youtube-url]
+[![Youtube][Leetcode-shield]][leetcode-url]
+
+<!-- </div> -->
 <br>
- ## License
+
+## License
  
 [![BSD-2 License][license-shield]][license-url]
 
@@ -104,3 +112,22 @@ I'm Anurag Kar, Student at 📚 IIIT, Kancheepuram, Chennai,  Pursuing Btech. in
 
 [gmail-shield]: https://img.shields.io/badge/-Gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555
 [gmail-url]: mailto:anuragkar16@gmail.com
+
+[leetcode-shield]: https://img.shields.io/badge/-Leetcode-black.svg?style=for-the-badge&logo=leetcode&colorB=555
+[leetcode-url]: https://leetcode.com/anuragkar/
+
+
+<!-- <div align="left">
+<table >
+ <tr>
+    <td>
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragdevon&theme=tokyonight&show_icons=true&border_radius=0)
+    </td>
+    <td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdevon&layout=compact&theme=tokyonight&border_radius=0)](https://github.com/anuragdevon/)
+    </td>
+ </tr>
+</table>
+</div> --> 
