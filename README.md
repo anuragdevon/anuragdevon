@@ -23,10 +23,12 @@ I'm Anurag, a passionate developer with experience in Python and Golang. I speci
 <div align="center">
 
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/anuragkar) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragdevon&theme=tokyonight&show_icons=true&hide_border=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragdevon&theme=tokyonight&show_icons=true&hide_border=true) -->
  </div>
 <!-- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40px"></span>&nbsp;
+
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40px"></span>&nbsp;
