@@ -20,6 +20,7 @@ I'm a backend-focused developer with hands-on experience in Python and Golang. I
 - 💻 Frequently tweaking Linux setups and learning systems internals.
 - 🌌 Football, sketching, and space science keep me inspired.
 
+### Currently Tinkering  - [Arch Rice Blog](https://anuragkar.netlify.app/blogs/andromeda-rice/)
 ---
 
 ## Quick Navigation
