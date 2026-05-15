@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://media.giphy.com/media/Xx883DjTCVRoODCbcQ/giphy.gif" width="100%" height="200px" style="object-fit:cover" alt="Anime Banner"/>
+  <img src="https://media.giphy.com/media/Xx883DjTCVRoODCbcQ/giphy.gif" width="60%" height="200px" style="object-fit:cover" alt="Anime Banner"/>
 </div>
 
 <!-- Header -->
@@ -26,7 +26,7 @@
 
 <!-- Violet Evergarden divider -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9mcjhhMmFxeTcxeHpqdmpyaHI5ZXVlMXNsNDZrbzZ5dmR6dTNjYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/b7d8ZzxqGw4Gpt0qfY/giphy.gif" width="100%" height="120px" style="object-fit:cover;object-position:center 30%" alt="Violet Evergarden"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9mcjhhMmFxeTcxeHpqdmpyaHI5ZXVlMXNsNDZrbzZ5dmR6dTNjYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/b7d8ZzxqGw4Gpt0qfY/giphy.gif" width="60%" height="120px" style="object-fit:cover;object-position:center 30%" alt="Violet Evergarden"/>
 </div>
 <div align="center">
   <sub><i>「 I want to know what "I love you" means. 」— Violet Evergarden</i></sub>
@@ -75,7 +75,7 @@ func main() {
 
 <!-- Mushoku Tensei divider -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGV4azk1NjkzaG9yd3l1Zjk4ZHM1dDd5b2lrdzc0aG95Ym5waml5OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PO4dEyMUnfow2xRcAE/giphy.gif" width="100%" height="130px" style="object-fit:cover;object-position:center 20%" alt="Mushoku Tensei"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGV4azk1NjkzaG9yd3l1Zjk4ZHM1dDd5b2lrdzc0aG95Ym5waml5OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PO4dEyMUnfow2xRcAE/giphy.gif" width="60%" height="130px" style="object-fit:cover;object-position:center 20%" alt="Mushoku Tensei"/>
 </div>
 <div align="center">
   <sub><i>「 If you want to be reborn... start right now. 」— Rudeus Greyrat, Mushoku Tensei</i></sub>
@@ -97,7 +97,7 @@ func main() {
 
 <!-- Tokyo Ghoul divider -->
 <div align="center">
-  <img src="https://media.giphy.com/media/Sy2yWgEelUFaw/giphy.gif" width="100%" height="130px" style="object-fit:cover;object-position:center 35%" alt="Tokyo Ghoul"/>
+  <img src="https://media.giphy.com/media/Sy2yWgEelUFaw/giphy.gif" width="60%" height="130px" style="object-fit:cover;object-position:center 35%" alt="Tokyo Ghoul"/>
 </div>
 <div align="center">
   <sub><i>「 If you're tormented by pain, don't bear it alone. 」— Ken Kaneki, Tokyo Ghoul</i></sub>
